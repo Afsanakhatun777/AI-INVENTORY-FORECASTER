@@ -26,5 +26,5 @@ A professional-grade inventory management system that uses Machine Learning to p
 2. Train the Model:
 python src/forecaster/train.py
 
-3.Launch the Dashboard:
+3. Launch the Dashboard:
 streamlit run src/forecaster/app.py
